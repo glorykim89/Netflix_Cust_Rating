@@ -5,7 +5,6 @@
 **Project Description**<br/>
 Netflix is an American media-services provider and production company who initially built their business through DVD sales and rentals.  Through a powerful on-demand streaming platform, Netflix has become an everyday part of life and evolved the way we watch the media, from movies to programs. Netflix created the opportunity to connect directly with the viewers and gather millions of data from viewing preferences, viewer information, and program information, spawning endless possibilities in data analytics.
 
-This dataset provides the details of the listings of different kinds of accommodations across different NYC neighbourhoods in the year 2019. It also lists down all the hosts and the rate of occupancy of each listing.I have designed a model to predict the price of a particular kind of accomodation based on the neighborhood.
 <br/><br/>
 
 **Data Set**<br/>
