@@ -5,7 +5,7 @@
 **Project Description**<br/>
 Netflix is an American media-services provider and production company who initially built their business through DVD sales and rentals.  Through a powerful on-demand streaming platform, Netflix has become an everyday part of life and evolved the way we watch the media, from movies to programs. Netflix created the opportunity to connect directly with the viewers and gather millions of data from viewing preferences, viewer information, and program information, spawning endless possibilities in data analytics.
 
-<br/><br/>
+<br/>
 
 **Data Set**<br/>
 The dataset used for this project was acquired through Kaggle and comes from two sources:
